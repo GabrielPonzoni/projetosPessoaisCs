@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\JogoAdivinhacaoCs\JogoAdivinhacaoCs\bin\Debug\net7.0\JogoAdivinhacaoCs.exe
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\JogoAdivinhacaoCs\JogoAdivinhacaoCs\bin\Debug\net7.0\JogoAdivinhacaoCs.deps.json
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\JogoAdivinhacaoCs\JogoAdivinhacaoCs\bin\Debug\net7.0\JogoAdivinhacaoCs.runtimeconfig.json
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\JogoAdivinhacaoCs\JogoAdivinhacaoCs\bin\Debug\net7.0\JogoAdivinhacaoCs.dll
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\JogoAdivinhacaoCs\JogoAdivinhacaoCs\bin\Debug\net7.0\JogoAdivinhacaoCs.pdb
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\JogoAdivinhacaoCs\JogoAdivinhacaoCs\obj\Debug\net7.0\JogoAdivinhacaoCs.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\JogoAdivinhacaoCs\JogoAdivinhacaoCs\obj\Debug\net7.0\JogoAdivinhacaoCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\JogoAdivinhacaoCs\JogoAdivinhacaoCs\obj\Debug\net7.0\JogoAdivinhacaoCs.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\JogoAdivinhacaoCs\JogoAdivinhacaoCs\obj\Debug\net7.0\JogoAdivinhacaoCs.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\JogoAdivinhacaoCs\JogoAdivinhacaoCs\obj\Debug\net7.0\JogoAdivinhacaoCs.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\JogoAdivinhacaoCs\JogoAdivinhacaoCs\obj\Debug\net7.0\JogoAdivinhacaoCs.dll
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\JogoAdivinhacaoCs\JogoAdivinhacaoCs\obj\Debug\net7.0\refint\JogoAdivinhacaoCs.dll
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\JogoAdivinhacaoCs\JogoAdivinhacaoCs\obj\Debug\net7.0\JogoAdivinhacaoCs.pdb
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\JogoAdivinhacaoCs\JogoAdivinhacaoCs\obj\Debug\net7.0\JogoAdivinhacaoCs.genruntimeconfig.cache
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\JogoAdivinhacaoCs\JogoAdivinhacaoCs\obj\Debug\net7.0\ref\JogoAdivinhacaoCs.dll
