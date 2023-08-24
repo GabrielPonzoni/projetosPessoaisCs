@@ -40,7 +40,7 @@ while (true)
             break;
         } else if (valorChute < valorRandInteiro) 
         {
-            Console.WriteLine("Infelizmente você errou! (o número é um pouco maior)");
+            Console.WriteLine("Infelizmente você errou! (o número é um pouco maior!)");
             tentativaAtual++;
         } else if (valorChute > valorRandInteiro)
         {

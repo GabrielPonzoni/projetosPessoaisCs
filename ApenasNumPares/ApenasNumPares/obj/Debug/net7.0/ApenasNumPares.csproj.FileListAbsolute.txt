@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ApenasNumPares\ApenasNumPares\bin\Debug\net7.0\ApenasNumPares.exe
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ApenasNumPares\ApenasNumPares\bin\Debug\net7.0\ApenasNumPares.deps.json
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ApenasNumPares\ApenasNumPares\bin\Debug\net7.0\ApenasNumPares.runtimeconfig.json
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ApenasNumPares\ApenasNumPares\bin\Debug\net7.0\ApenasNumPares.dll
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ApenasNumPares\ApenasNumPares\bin\Debug\net7.0\ApenasNumPares.pdb
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ApenasNumPares\ApenasNumPares\obj\Debug\net7.0\ApenasNumPares.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ApenasNumPares\ApenasNumPares\obj\Debug\net7.0\ApenasNumPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ApenasNumPares\ApenasNumPares\obj\Debug\net7.0\ApenasNumPares.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ApenasNumPares\ApenasNumPares\obj\Debug\net7.0\ApenasNumPares.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ApenasNumPares\ApenasNumPares\obj\Debug\net7.0\ApenasNumPares.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ApenasNumPares\ApenasNumPares\obj\Debug\net7.0\ApenasNumPares.dll
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ApenasNumPares\ApenasNumPares\obj\Debug\net7.0\refint\ApenasNumPares.dll
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ApenasNumPares\ApenasNumPares\obj\Debug\net7.0\ApenasNumPares.pdb
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ApenasNumPares\ApenasNumPares\obj\Debug\net7.0\ApenasNumPares.genruntimeconfig.cache
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ApenasNumPares\ApenasNumPares\obj\Debug\net7.0\ref\ApenasNumPares.dll
