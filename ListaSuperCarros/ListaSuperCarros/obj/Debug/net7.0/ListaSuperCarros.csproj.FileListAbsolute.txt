@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ListaSuperCarros\ListaSuperCarros\obj\Debug\net7.0\ListaSuperCarros.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ListaSuperCarros\ListaSuperCarros\obj\Debug\net7.0\ListaSuperCarros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ListaSuperCarros\ListaSuperCarros\obj\Debug\net7.0\ListaSuperCarros.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ListaSuperCarros\ListaSuperCarros\obj\Debug\net7.0\ListaSuperCarros.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ListaSuperCarros\ListaSuperCarros\obj\Debug\net7.0\ListaSuperCarros.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ListaSuperCarros\ListaSuperCarros\bin\Debug\net7.0\ListaSuperCarros.exe
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ListaSuperCarros\ListaSuperCarros\bin\Debug\net7.0\ListaSuperCarros.deps.json
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ListaSuperCarros\ListaSuperCarros\bin\Debug\net7.0\ListaSuperCarros.runtimeconfig.json
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ListaSuperCarros\ListaSuperCarros\bin\Debug\net7.0\ListaSuperCarros.dll
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ListaSuperCarros\ListaSuperCarros\bin\Debug\net7.0\ListaSuperCarros.pdb
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ListaSuperCarros\ListaSuperCarros\obj\Debug\net7.0\ListaSuperCarros.dll
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ListaSuperCarros\ListaSuperCarros\obj\Debug\net7.0\refint\ListaSuperCarros.dll
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ListaSuperCarros\ListaSuperCarros\obj\Debug\net7.0\ListaSuperCarros.pdb
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ListaSuperCarros\ListaSuperCarros\obj\Debug\net7.0\ListaSuperCarros.genruntimeconfig.cache
+C:\Users\gabri\Desktop\Alura\C#\pastaDeProjetos\projetosPessoaisCs\ListaSuperCarros\ListaSuperCarros\obj\Debug\net7.0\ref\ListaSuperCarros.dll
