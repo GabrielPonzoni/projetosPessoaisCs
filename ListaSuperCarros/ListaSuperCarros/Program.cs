@@ -38,6 +38,33 @@ void ListarCarros()
         Console.WriteLine(car);
     }
 }
-Console.WriteLine("Consulte a média dos seguintes carros:");
+
+
+Console.WriteLine("*** Lista de Carros cadastrados no Sistema ***\n");
 ListarCarros();
+
+while (true)
+{
+    Console.Write("\nQual desses carros você deseja saber a média? ");
+    string carroEscolhido = Console.ReadLine()!;
+    if (vendasCarros.ContainsKey(carroEscolhido))
+    {
+        // calcula média e armazena 
+        List<int> quantidadeVendas = vendasCarros[carroEscolhido];
+        double mediaVendas = quantidadeVendas.Average();
+        Console.WriteLine($"\nO {carroEscolhido} teve uma média de vendas de {mediaVendas}\n-=-=-=-=-=-=-=--=-=-=-=");
+        Console.Write("Para sair digite \"sair\", senão informe outro veículo...");
+
+    }
+    else if (carroEscolhido == "sair")
+    {
+        //sair
+        break;
+
+    }else
+    {
+        //info errada 
+        Console.WriteLine(">>>Nome escolhido não consta no nosso banco de dados! Tente novamente ou saia digitando \"sair\"! ");
+    }
+}
 
